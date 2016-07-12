@@ -128,7 +128,7 @@ ru:
         many:  "меньше %{count} минут"
         other: "меньше %{count} минуты"
       x_minutes:
-        one:   "%{count} минута"
+        one:   "%{count} минуту"
         few:   "%{count} минуты"
         many:  "%{count} минут"
         other: "%{count} минуты"
